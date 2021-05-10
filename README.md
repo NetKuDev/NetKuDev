@@ -6,7 +6,7 @@ Polish GameDev
 
 Yoo hi! Something about me okey? A profesional polish game dev. I like coding in c++ and c#. Here is a Legendary Hello World c++ code. Have a good day! 
 
-`print("hello world")`
+`printf("hello world");`
 🤑
 # My stats:
 
